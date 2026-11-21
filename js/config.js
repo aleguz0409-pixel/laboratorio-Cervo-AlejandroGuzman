@@ -11,6 +11,6 @@
       Pon false cuando termines las pruebas.
    ============================================================ */
 window.TIENDA_CONFIG = {
-  GA_MEASUREMENT_ID: "G-XXXXXXXXXX", // <- pega aquí tu ID de medición
+  GA_MEASUREMENT_ID: "G-TWPW1QZ24T", // <- pega aquí tu ID de medición
   DEBUG_MODE: true                   // true = modo depuración (DebugView)
 };
